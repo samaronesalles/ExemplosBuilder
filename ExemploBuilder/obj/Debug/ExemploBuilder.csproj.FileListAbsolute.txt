@@ -1,0 +1,7 @@
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\bin\Debug\ExemploBuilder.exe.config
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\bin\Debug\ExemploBuilder.exe
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\bin\Debug\ExemploBuilder.pdb
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\obj\Debug\ExemploBuilder.csprojAssemblyReference.cache
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\obj\Debug\ExemploBuilder.csproj.CoreCompileInputs.cache
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\obj\Debug\ExemploBuilder.exe
+D:\Projeto c#\ExemploBuilder\ExemploBuilder\obj\Debug\ExemploBuilder.pdb
